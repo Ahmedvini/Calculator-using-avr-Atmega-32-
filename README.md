@@ -38,4 +38,4 @@ This project is a simple calculator built using the Atmega32 microcontroller, de
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-Thanks to **AMIT** for their support during my internship, helping me gain hands-on experience in embedded systems.
+Thanks to **AMIT** and **Orange Digital Center (ODC)** for their support during my internship, helping me gain hands-on experience in embedded systems.
