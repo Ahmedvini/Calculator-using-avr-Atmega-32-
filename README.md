@@ -33,7 +33,7 @@ This project is a simple calculator built using the Atmega32 microcontroller, de
 
 For those using Proteus for simulation, here’s the circuit connection used for this project. Refer to the image below for detailed wiring of the LCD, keypad, and Atmega32 in Proteus.
 
-![Proteus Connection Diagram]()
+![Proteus Connection Diagram](Calculator-using-avr-Atmega-32-/Calc/proteus/Calculator.png)
 ## Future Enhancements
 - Add complex operations (square root, exponentiation).
 - Memory functions for storing results.
